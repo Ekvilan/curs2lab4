@@ -466,4 +466,5 @@ function fan4() {
                                   j++;
                               } while (j <= 30);
    	### вывод
+   	![screen](https://github.com/Ekvilan/curs2lab5/blob/main/18329.jpg)
    	решил задачи с использованием Node.js, а так же решил задачи на Codewars
